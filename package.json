@@ -21,7 +21,7 @@
   "homepage": "https://github.com/kenOfYugen/npm-miner#readme",
   "devDependencies": {
     "coffeelint": "^2.1.0",
-    "coffeescript": "^2.2.4",
+    "coffeescript": "^2.3.0",
     "tap-spec": "^4.1.1",
     "tape": "^4.9.0"
   },
